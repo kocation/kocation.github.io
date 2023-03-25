@@ -33,7 +33,7 @@ Join us as we delve into the complex and often difficult history of crime in San
 >
 
 
-As you can see on the map above, if you are going to park your car, Tenderloin is the best district where you can do so, while you should try to avoid areas such as Mission and Bayview, since most of the cases occur there.
+As you can see on the map below, if you are going to park your car, Tenderloin is the best district where you can do so, while you should try to avoid areas such as Mission and Bayview, since most of the cases occur there.
 
 You should also be extra careful during late nights to be attentive to how long will you leave your car alone, since most of the car theft happens during the afternoon. Below, you can find a graph that shows when do the majority of the cases take place, which you can see that during the night and morning the cases are reduced in comparison to the night.
 
