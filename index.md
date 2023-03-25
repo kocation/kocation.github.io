@@ -15,17 +15,11 @@ In this magazine, we take a closer look at the key factors that contributed to t
 Join us as we delve into the complex and often difficult history of crime in San Francisco, and gain a deeper understanding of the city's past and its ongoing efforts to create a safer community for all.
 
 
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-
-## Header 2
-
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Car parking safety map distribution
+## Car parking safety map distribution
 
 <iframe src="SF_crime_map.html" height="600px" width="100%" style="border:none;"></iframe>
 
@@ -45,10 +39,10 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-### Time-series dependant visualisation
+## Time-series dependant visualisation
 
 
-### Bokeh interactive visualisation
+## Bokeh interactive visualisation
 
 
 <p align="center"><iframe src="Bokeh.html" height="700px" width="100%" style="border:none;"></iframe></p>
