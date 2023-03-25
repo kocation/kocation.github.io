@@ -6,6 +6,11 @@ layout: default
 
 [Link to GitHub page](https://kocation.github.io).
 
+> In order to access to the interactive properties...
+>
+> Enter to the link mentioned above
+
+
 Welcome to our special edition magazine that explores the history of crime in San Francisco from 2002 to 2017. San Francisco has long been known for its vibrant culture, stunning views, and progressive values. However, it has also faced its share of challenges, including a significant rise in crime during the early 2000s.
 
 During this period, San Francisco experienced a range of criminal activity, from petty theft to violent crimes. Despite various efforts by the city authorities to address the issue, crime rates continued to climb, affecting the safety and well-being of the residents.
@@ -23,8 +28,6 @@ Join us as we delve into the complex and often difficult history of crime in San
 
 <iframe src="SF_crime_map.html" height="600px" width="100%" style="border:none;"></iframe>
 
-
-
 ## Time-series dependant visualisation
 
 <div style="text-align: center;">
@@ -36,10 +39,6 @@ Join us as we delve into the complex and often difficult history of crime in San
 <div style="text-align: center;">
 <p align="center"><iframe src="Bokeh.html" height="700px" width="100%" style="border:none;"></iframe></p>
 </div>
-
-lala
-
-la
 
 ```
 The final element.
