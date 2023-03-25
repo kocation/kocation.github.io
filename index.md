@@ -51,7 +51,7 @@ end
 ### Bokeh interactive visualisation
 
 
-<iframe src="Bokeh.html" height="600px" width="100%" style="border:none;"></iframe>
+<iframe src="Bokeh.html" height="700px" width="100%" style="border:none;"></iframe>
 
 
 
