@@ -7,7 +7,7 @@
 ![Thumbnail of Modernist](thumbnail.png)
 
 ## Usage
-
+    
 To use the Modernist theme:
 
 1. Add the following to your site's `_config.yml`:
