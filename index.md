@@ -4,8 +4,6 @@ layout: default
 
 # San Francisco crimes map
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 [Link to GitHub page](https://kocation.github.io).
 
 Welcome to our special edition magazine that explores the history of crime in San Francisco from 2002 to 2017. San Francisco has long been known for its vibrant culture, stunning views, and progressive values. However, it has also faced its share of challenges, including a significant rise in crime during the early 2000s.
@@ -21,17 +19,16 @@ Join us as we delve into the complex and often difficult history of crime in San
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 
-<iframe src="SF_crime_map.html" height="600px" width="100%" style="border:none;"></iframe>
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
 ## Header 2
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### Car parking safety map distribution
+
+<iframe src="SF_crime_map.html" height="600px" width="100%" style="border:none;"></iframe>
+
 
 ```js
 // Javascript code with syntax highlighting.
