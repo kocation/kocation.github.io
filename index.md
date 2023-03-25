@@ -13,13 +13,11 @@ layout: default
 >Click on the link mentioned above
 >
 
-Welcome to our special edition magazine that explores the history of crime in San Francisco from 2002 to 2017. San Francisco has long been known for its vibrant culture, stunning views, and progressive values. However, it has also faced its share of challenges, including a significant rise in crime during the early 2000s.
+Welcome to this week's edition of Life in California. Today, we will talk about San Francisco, the centre of California's society. This city is well know for the their culture, night life, landscapes and much more! Thanks to this, this city calls millions of people every year but, unfortunately this not always mean good things.
 
-During this period, San Francisco experienced a range of criminal activity, from petty theft to violent crimes. Despite various efforts by the city authorities to address the issue, crime rates continued to climb, affecting the safety and well-being of the residents.
+San Francisco has been facing an increment in criminality in the past years and, today, we will focus on the police reports from 2002 to 2017. The city has experienced a wide range of types of crime focuses, some of them are vandalism, narcotics, and theft. This last one is the most common type of crime occuring in San Francisco, which we will explain more in depth along this article. 
 
-In this magazine, we take a closer look at the key factors that contributed to the rise in crime during this period, as well as the strategies and measures that were implemented to combat it. We also examine some of the most high-profile cases that occurred during this time, including the infamous "Zodiac Killer" case, and explore how these incidents impacted the city and its residents.
-
-Join us as we delve into the complex and often difficult history of crime in San Francisco, and gain a deeper understanding of the city's past and its ongoing efforts to create a safer community for all.
+If you are planning on a road trip to this city, you must be careful about where will you park your car, since car theft is one of the most common cases reported in San Francisco, here you can have a reference of the most risky places of where you can park your car if you go for a weekend trip:
 
 
 >
