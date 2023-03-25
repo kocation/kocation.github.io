@@ -45,6 +45,12 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
+### Time-series dependant visualisation
+
+
+### Bokeh interactive visualisation
+
+
 #### Header 4
 
 *   This is an unordered list following a header.
