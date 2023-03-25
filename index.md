@@ -8,7 +8,7 @@ layout: default
 
 > In order to access to the interactive properties...
 >
-> Enter to the link mentioned above
+> Click on the link mentioned above
 
 
 Welcome to our special edition magazine that explores the history of crime in San Francisco from 2002 to 2017. San Francisco has long been known for its vibrant culture, stunning views, and progressive values. However, it has also faced its share of challenges, including a significant rise in crime during the early 2000s.
