@@ -7,11 +7,11 @@ layout: default
 [Link to GitHub page](https://kocation.github.io).
 
 
-```
-In order to access to the interactive properties...
-
-Click on the link mentioned above
-```
+>
+>In order to access to the interactive properties...
+>
+>Click on the link mentioned above
+>
 
 Welcome to our special edition magazine that explores the history of crime in San Francisco from 2002 to 2017. San Francisco has long been known for its vibrant culture, stunning views, and progressive values. However, it has also faced its share of challenges, including a significant rise in crime during the early 2000s.
 
@@ -21,10 +21,6 @@ In this magazine, we take a closer look at the key factors that contributed to t
 
 Join us as we delve into the complex and often difficult history of crime in San Francisco, and gain a deeper understanding of the city's past and its ongoing efforts to create a safer community for all.
 
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
 >
 ## Car parking safety map distribution
