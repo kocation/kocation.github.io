@@ -28,13 +28,13 @@ Join us as we delve into the complex and often difficult history of crime in San
 ## Time-series dependant visualisation
 
 <div style="text-align: center;">
-<p align="center"><iframe src="Graphic.jpg" height="100%" width="100%" style="border:none;"></iframe></p>
+<p align="center"><iframe src="Graphic.jpg" height="500px" width="100%" style="border:none;"></iframe></p>
 </div>
 
 ## Bokeh interactive visualisation
 
 <div style="text-align: center;">
-<p align="center"><iframe src="Bokeh.html" height="100%" width="100%" style="border:none;"></iframe></p>
+<p align="center"><iframe src="Bokeh.html" height="700px" width="100%" style="border:none;"></iframe></p>
 </div>
 
 lala
