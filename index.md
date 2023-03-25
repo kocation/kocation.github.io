@@ -24,20 +24,6 @@ Join us as we delve into the complex and often difficult history of crime in San
 <iframe src="SF_crime_map.html" height="600px" width="100%" style="border:none;"></iframe>
 
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 ## Time-series dependant visualisation
 
