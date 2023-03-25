@@ -29,18 +29,23 @@ Join us as we delve into the complex and often difficult history of crime in San
 <iframe src="SF_crime_map.html" height="600px" width="100%" style="border:none;"></iframe>
 
 
-
+ 
 ## Time-series dependant visualisation
 
+>
 <div style="text-align: center;">
 <p align="center"><iframe src="Graphic.jpg" height="500px" width="100%" style="border:none;"></iframe></p>
 </div>
+>
 
 ## Bokeh interactive visualisation
 
+>
 <div style="text-align: center;">
 <p align="center"><iframe src="Bokeh.html" height="700px" width="100%" style="border:none;"></iframe></p>
 </div>
+>
+
 
 ```
 The final element.
