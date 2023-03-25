@@ -2,9 +2,11 @@
 layout: default
 ---
 
+# San Francisco crimes map
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to GitHub page](https://kocation.github.io).
 
 Welcome to our special edition magazine that explores the history of crime in San Francisco from 2002 to 2017. San Francisco has long been known for its vibrant culture, stunning views, and progressive values. However, it has also faced its share of challenges, including a significant rise in crime during the early 2000s.
 
@@ -18,7 +20,6 @@ Join us as we delve into the complex and often difficult history of crime in San
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# San Francisco crimes map
 
 <iframe src="SF_crime_map.html" height="600px" width="100%" style="border:none;"></iframe>
 
