@@ -10,6 +10,8 @@ probando cuando tarda en cargar
 
 <iframe src="SF_crime_map.html" height="600px" width="100%" style="border:none;"></iframe>
 
+{% include SF_crime_map.html %}
+
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
