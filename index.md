@@ -23,8 +23,16 @@ If you are planning on a road trip to this city, you must be careful about where
 >
 ## Car parking safety map distribution
 >
+
+Car theft is one of the most frustrating experiences one can have as the Vehicle most likely if recovered will no longer be in the condition it was prior to the theft. This makes it crucial to know where the car can be left and where it most likely will attract too much attention. Therefore, to determine the safest District in which a vehicle can be left without having to worry about not finding it, the crime data of each vehicle theft in the year 2017 is analyzed to provide a reference of the most recent car thefts. Furthermore, individual days can also be selected to see which days the vehicles were most likely to be stolen in the respective Districts.
+
 <iframe src="SF_crime_map.html" height="600px" width="100%" style="border:none;"></iframe>
 
+In the heatmap of the San Francisco area the safest zones can be seen in green and the not so safe zones in Red. An interesting observation of the heat map is that the vehicle will be safest if is parked the entire week in Tenderloin. This district seems to have the least theft records of all the district no matter what day of the week. Another interesting discovery is that the districts such as Northern, Mission and Bayview seem to have the most Vehicle thefts throughout the week. 
+
+This could be since the most crimes that have occurred in San Francisco have usually occurred in the districts Northern, Mission and Southern, which could lead to the assumption that the reputation of these districts does not help the diminution of crime.
+
+Furthermore, if investigating the time of the day in which the vehicle is most likely to be stolen it suggests that the early times in the day are the safest times for a vehicle to be parked in the streets of San Francisco.
 
 >
 ## Time-series dependant visualisation
