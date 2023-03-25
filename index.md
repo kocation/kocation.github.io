@@ -28,13 +28,20 @@ Join us as we delve into the complex and often difficult history of crime in San
 ## Time-series dependant visualisation
 
 
+<p align="center"><iframe src="Graphic.jpg" height="700px" width="100%" style="border:none;"></iframe></p>
+
+
+
+
 ## Bokeh interactive visualisation
 
 
 <p align="center"><iframe src="Bokeh.html" height="700px" width="100%" style="border:none;"></iframe></p>
 
 
+lala
 
+la
 
 ```
 The final element.
