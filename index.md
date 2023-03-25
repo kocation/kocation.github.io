@@ -52,8 +52,6 @@ While you are in San Francisco, you should not only try to be careful about wher
 
 
 
-
-
 ```
 The final element.
 ```
