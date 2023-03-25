@@ -6,12 +6,21 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-<iframe src="SF_crime_map.html" height="600px" width="100%" style="border:none;"></iframe>
+Welcome to our special edition magazine that explores the history of crime in San Francisco from 2002 to 2017. San Francisco has long been known for its vibrant culture, stunning views, and progressive values. However, it has also faced its share of challenges, including a significant rise in crime during the early 2000s.
+
+During this period, San Francisco experienced a range of criminal activity, from petty theft to violent crimes. Despite various efforts by the city authorities to address the issue, crime rates continued to climb, affecting the safety and well-being of the residents.
+
+In this magazine, we take a closer look at the key factors that contributed to the rise in crime during this period, as well as the strategies and measures that were implemented to combat it. We also examine some of the most high-profile cases that occurred during this time, including the infamous "Zodiac Killer" case, and explore how these incidents impacted the city and its residents.
+
+Join us as we delve into the complex and often difficult history of crime in San Francisco, and gain a deeper understanding of the city's past and its ongoing efforts to create a safer community for all.
+
 
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1234
+# San Francisco crimes map
+
+<iframe src="SF_crime_map.html" height="600px" width="100%" style="border:none;"></iframe>
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
