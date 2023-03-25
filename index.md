@@ -6,9 +6,11 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
+lalalala
 probando cuando tarda en cargar
 
 <iframe src="SF_crime_map.html" height="600px" width="100%" style="border:none;"></iframe>
+
 
 {% include SF_crime_map.html %}
 
