@@ -52,8 +52,6 @@ Overall, while the exact reasons for why it's safest to park a car in San Franci
 </div>
 
 
-While you are in San Francisco, you should not only try to be careful about where do you park your car, but also be careful about yourself and where do you walk and turist. Since 2005, the number of car theft cases has remained constant, but the larceny cases has only increased. This number keeps increasing and by 2016 the annual years has been over 40,000 cases!
-
 >
 ## Bokeh interactive visualisation
 >
