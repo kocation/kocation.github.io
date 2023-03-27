@@ -10,7 +10,7 @@ layout: default
 >
 >In order to access to the interactive properties...
 >
->Click on the link mentioned above
+>Click on the link mentioned above or access to https://kocation.github.io
 >
 
 Welcome to this week's edition of Life in California. Today, we will talk about San Francisco, the centre of California's society. This city is well know for the their culture, night life, landscapes and much more! Thanks to this, this city calls millions of people every year but, unfortunately this not always mean good things.
