@@ -13,7 +13,7 @@ layout: default
 >Click on the link mentioned above or access to https://kocation.github.io
 >
 
-W to this week's edition of Life in California. Today, we will talk about San Francisco, the centre of California's society. This city is well know for the their culture, night life, landscapes and much more! Thanks to this, this city calls millions of people every year but, unfortunately this not always mean good things.
+Welcome to this week's edition of Life in California. Today, we will talk about San Francisco, the centre of California's society. This city is well know for the their culture, night life, landscapes and much more! Thanks to this, this city calls millions of people every year but, unfortunately this not always mean good things.
 
 San Francisco has been facing an increment in criminality in the past years and, today, we will focus on the police reports from 2002 to 2017. The city has experienced a wide range of types of crime focuses, some of them are vandalism, narcotics, and theft. This last one is the most common type of crime occuring in San Francisco, which we will explain more in depth along this article. 
 
